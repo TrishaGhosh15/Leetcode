@@ -1,0 +1,2 @@
+# Leetcode
+all  leetcode questions
